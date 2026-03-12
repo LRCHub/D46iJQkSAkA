@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "SHE IS FINE",
+  "base_artist": "クリープハイプ",
+  "createdAt": "2026-03-12T19:18:47.222709Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SHE IS FINE",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_01_SHE_IS_FINE_クリープハイプ.txt"
+    }
+  ]
+}
